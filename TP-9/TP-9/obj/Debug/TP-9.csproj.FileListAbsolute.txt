@@ -1,0 +1,13 @@
+D:\TP-9\TP-9\TP-9\bin\Debug\TP-9.exe.config
+F:\TP-9\TP-9\TP-9\bin\Debug\TP-9.exe.config
+F:\TP-9\TP-9\TP-9\bin\Debug\TP-9.exe
+F:\TP-9\TP-9\TP-9\bin\Debug\TP-9.pdb
+F:\TP-9\TP-9\TP-9\obj\Debug\TP-9.csprojAssemblyReference.cache
+F:\TP-9\TP-9\TP-9\obj\Debug\TP-9.csproj.CoreCompileInputs.cache
+F:\TP-9\TP-9\TP-9\obj\Debug\TP-9.exe
+F:\TP-9\TP-9\TP-9\obj\Debug\TP-9.pdb
+D:\TP-9\TP-9\TP-9\obj\Debug\TP-9.exe
+D:\TP-9\TP-9\TP-9\obj\Debug\TP-9.pdb
+D:\TP-9\TP-9\TP-9\bin\Debug\TP-9.exe
+D:\TP-9\TP-9\TP-9\bin\Debug\TP-9.pdb
+D:\TP-9\TP-9\TP-9\obj\Debug\TP-9.csprojResolveAssemblyReference.cache
